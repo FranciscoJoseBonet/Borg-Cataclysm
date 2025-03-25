@@ -4,7 +4,7 @@
 
 Este es un juego 2D inspirado en _Space Invaders_, pero con una temática basada en _Star Trek_. Los jugadores pueden seleccionar su nave según facciones icónicas de la saga, cada una con habilidades pasivas únicas. Los enemigos tienen patrones de ataque definidos por algoritmos simples.
 
-El juego está desarrollado en **C++** utilizando la librería **SFML** para los gráficos y animaciones en _pixel art_. Los datos se guardan en archivos binarios para persistencia.
+El juego está desarrollado en **C++** utilizando la librería **SFML** para los gráficos y animaciones en _pixel art_. Los datos se guardan en archivos binarios.
 
 ---
 
